@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Jueun%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hi!%20I'm%20Jueun!&fontSize=90" />	
 </div>
 
 <div align=center
@@ -22,6 +22,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JueunHwang1155&layout=compact)](https://github.com/JueunHwang115/github-readme-stats)
-</div>
+
