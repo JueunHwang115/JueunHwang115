@@ -15,6 +15,7 @@
 <br>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=Visual_Studio&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=Visual_Studio_Code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 
 
