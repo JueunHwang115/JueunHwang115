@@ -18,4 +18,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 </div>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JueunHwang115&layout=compact)](https://github.com/JueunHwang115/github-readme-stats)
